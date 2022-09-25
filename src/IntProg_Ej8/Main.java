@@ -12,7 +12,7 @@ public class Main {
         persona.setEdad(43);
         System.out.println("Tengo " + persona.getEdad() + " años de edad");
         persona.setTelefono(379400000);
-        System.out.println("Mi teléfono es nro." + persona.getTelefono());
+        System.out.println("Mi teléfono es el nro." + persona.getTelefono());
     }
 }
 //Crear Clase Persona
